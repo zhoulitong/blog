@@ -1,2 +1,2 @@
 # blog
-My Blog
+My Blog,hello world!
